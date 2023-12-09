@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=E34F26"/>
 
 <!--
 **kktofu720/kktofu720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
