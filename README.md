@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff"/>
 
+1차 프로젝트 링크 : http://112.222.157.156:6024/todolist/src/main.php
+
 <!--
 **kktofu720/kktofu720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
