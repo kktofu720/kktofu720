@@ -34,6 +34,8 @@
 #### :pencil2: Study log
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kktofu720&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kktofu720&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!--
