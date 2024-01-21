@@ -1,13 +1,15 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e2a3ff&height=200&section=header&text=kktofu720&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40" />
- <br>
-🖐 hello 
- <br>
-🖐 Welcome my github profile !
+ <br/>
+ 
+#### 🖐 hello 
+ 
+#### Welcome my github profile !
  <br/>
  <br/>
  <br/>
-My Stack
+ 
+#### :clipboard: My Stack
  <br/>
  <br/>
 
@@ -27,13 +29,16 @@ My Stack
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff"/>
 
 
-📧email : rlaalswn0209@gmail.com
-<br>
-1차 프로젝트 링크 : http://112.222.157.156:6024/todolist/src/main.php
-<br>
-2차 프로젝트 링크 : http://112.222.157.156:6001
-<br>
+#### 📧email : rlaalswn0209@gmail.com
 
+#### 1차 프로젝트 링크 : http://112.222.157.156:6024/todolist/src/main.php
+
+#### 2차 프로젝트 링크 : http://112.222.157.156:6001
+<br/>
+<br/>
+
+#### :pencil2: Study log
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kktofu720&show_icons=true&theme=dracula)
 
 </div>
 
