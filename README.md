@@ -1,16 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e2a3ff&height=200&section=header&text=kktofu720&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40" />
- <br/>
- 
-#### 🖐 hello 
- 
-#### Welcome my github profile !
- <br/>
- <br/>
- <br/>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=700&size=50&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+kktofu720's+GitHub!👋)](https://git.io/typing-svg)
+
+<br/>
  
 #### :clipboard: My Stack
- <br/>
  <br/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff"/>
